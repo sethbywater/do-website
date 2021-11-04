@@ -1,0 +1,9 @@
+baseURL = "http://sethbywater.com/"
+languageCode = "en-us"
+title = "Seth Bywater"
+
+buildDrafts = false
+buildExpired = false
+buildFuture = false
+
+publishDir = "build/public"
